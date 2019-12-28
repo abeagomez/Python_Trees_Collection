@@ -64,6 +64,12 @@ class BST:
             self.right.inorder_traversal()
 
     def delete_element(self, element):
+        # When we delete a node, three possibilities arise.
+        # 1. Node to be deleted is leaf: Simply remove from the tree.
+        # 2. Node to be deleted has only one child: Replace the node with it's child
+        # 3. Node to be deleted has two children: Find inorder successor of the node.
+        # Copy contents of the inorder successor to the node and delete the inorder successor.
+        # Note that inorder predecessor can also be used.
         pass
 
     def get_height(self):
