@@ -4,6 +4,17 @@
 
 This repository pretends to be a library containing python implementations of trees. The complete list of trees we would like to have can be found [here](https://en.wikipedia.org/wiki/List_of_data_structures#Trees).
 
+## What will you find on this repo?
+
+So far, we have included the followinf data structures in our collection:
+- Binary Search Tree (BST)
+- AVL Tree
+- B-tree
+- Heap
+- Red Black Tree
+- Segment Tree
+- Interval Tree
+
 __Feel Free To Colaborate!__ Just keep in mind a few things:
 
 1- Implementations should be as simple as possible to read and understand for other developers
@@ -11,8 +22,6 @@ __Feel Free To Colaborate!__ Just keep in mind a few things:
 2- It's ok (and even better) to implement several variants of the same function (for example, iterative and recursive implementations of the same function)
 
 3- If you know the definition of a specific tree, feel free to add it at the top of the script. You can check `binary_search_tree.py` as an example.
-
-## What will you find on this repo?
 
 ## Introduction
 
