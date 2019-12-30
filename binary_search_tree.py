@@ -12,8 +12,6 @@ class BST:
     def __init__(self, value):
         """
         :param value: The tree's root value
-        :param BST left_node: the left subtree, None if not provided
-        :param BST right_node: the right subtree, None if not provided
         """
         self.value = value
         self.left = None
