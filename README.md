@@ -10,7 +10,7 @@ __Feel Free To Colaborate!__ Just keep in mind a few things:
 
 2- It's ok (and even better) to implement several variants of the same function (for example, iterative and recursive implementations of the same function)
 
-3- If you know the definition of a specific tree, feel free to add it at the top of the script. You can check `python binary_search_tree.py` as an example.
+3- If you know the definition of a specific tree, feel free to add it at the top of the script. You can check `binary_search_tree.py` as an example.
 
 ## What will you find on this repo?
 
